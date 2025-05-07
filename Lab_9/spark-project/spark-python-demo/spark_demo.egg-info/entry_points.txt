@@ -1,0 +1,2 @@
+[console_scripts]
+spark-demo = spark_job:main
